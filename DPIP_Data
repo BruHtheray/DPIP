@@ -119,18 +119,6 @@
     "TimePosition": 0,
     "Notification": 0
  },
-   {
-    "route": "0",
-    "direction": 1,
-    "NextStop": 1,
-    "Chi": "歡迎乘坐九龍巴士",
-    "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
   {
     "route": "301",
     "direction": 1,
