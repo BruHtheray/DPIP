@@ -226,5 +226,30 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
- }
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "歡迎乘坐九龍巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "歡迎乘坐龍巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+ 
 ]
