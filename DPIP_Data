@@ -322,6 +322,41 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "安達臣道",
+    "ChiTime": 5,
+    "Eng": "ANDERSON ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "騰龍台",
+    "ChiTime": 5,
+    "Eng": "DENON TERRACE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "井欄樹",
+    "ChiTime": 5,
+    "Eng": "GOOD HOPE SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
- 
 ]
