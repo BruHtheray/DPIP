@@ -34,5 +34,17 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
+ },
+   {
+    "number": 3,
+    "route": "307",
+    "destZ": "大埔中心",
+    "destY": "中環碼頭",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
  }
 ]
