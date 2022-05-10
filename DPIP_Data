@@ -442,5 +442,29 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 19,
+    "Chi": "北圍",
+    "ChiTime": 5,
+    "Eng": "PAK WAI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 20,
+    "Chi": "漁民新村",
+    "ChiTime": 5,
+    "Eng": "FISHMAN VILLAGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
