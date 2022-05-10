@@ -226,6 +226,41 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+ {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘坐九龍巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "志蓮淨苑",
+    "ChiTime": 5,
+    "Eng": "CHI LIN NUNNERY",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "歡迎乘坐九龍巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
-
 ]
