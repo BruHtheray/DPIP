@@ -491,4 +491,40 @@
     "TimePosition": 0,
     "Notification": 0
  },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 23,
+    "Chi": "大涌口",
+    "ChiTime": 5,
+    "Eng": "TAI CHUNG HAU",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 24,
+    "Chi": "北港",
+    "ChiTime": 5,
+    "Eng": "PAK KONG",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 25,
+    "Chi": "菠蘿輋",
+    "ChiTime": 5,
+    "Eng": "PO LO CHE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
 ]
