@@ -334,6 +334,90 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "大老山隧道",
+    "ChiTime": 5,
+    "Eng": "TATE'S CAIRN TUNNEL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "廣福邨",
+    "ChiTime": 5,
+    "Eng": "KWONG FUK ESTATE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "廣福道",
+    "ChiTime": 5,
+    "Eng": "KWONG FUK ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "寶鄉橋",
+    "ChiTime": 5,
+    "Eng": "PO HEUNG BRIDGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 14,
+    "Chi": "安祥路",
+    "ChiTime": 5,
+    "Eng": "ON CHEUNG ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 15,
+    "Chi": "大埔中心總站",
+    "ChiTime": 5,
+    "Eng": "TAI PO CENTRE BT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 16,
+    "Chi": "多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "THANK YOU FOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
