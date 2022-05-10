@@ -603,12 +603,12 @@
     "route": "92",
     "direction": 1,
     "NextStop": 2,
-    "Chi": "歡迎乘坐九龍巴士",
+    "Chi": "西貢大會堂",
     "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
+    "Eng": "SAI KUNG TOWN MALL",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
- },
+ }
 ]
