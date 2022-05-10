@@ -610,5 +610,17 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "翠塘花園",
+    "ChiTime": 5,
+    "Eng": "LAKE SIDE GARDEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
