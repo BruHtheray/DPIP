@@ -358,5 +358,29 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "白石窩",
+    "ChiTime": 5,
+    "Eng": "PAK SHEL WO",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "壁屋",
+    "ChiTime": 5,
+    "Eng": "PIK UK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
