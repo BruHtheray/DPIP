@@ -407,13 +407,37 @@
     "TimePosition": 0,
     "Notification": 0
  },
-    {
+  {
     "route": "92",
     "direction": 0,
     "NextStop": 16,
     "Chi": "窩美",
     "ChiTime": 5,
     "Eng": "WO MEI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+  {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 17,
+    "Chi": "南邊圍",
+    "ChiTime": 5,
+    "Eng": "NAM PIN WAI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 18,
+    "Chi": "蠔涌",
+    "ChiTime": 5,
+    "Eng": "HO CHUNG",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
