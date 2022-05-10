@@ -262,5 +262,29 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+ {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "牛池灣村",
+    "ChiTime": 5,
+    "Eng": "NGAU CHI WAN VILLAGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "白虹樓",
+    "ChiTime": 5,
+    "Eng": "PAK HUNG HOUSE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
