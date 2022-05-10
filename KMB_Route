@@ -22,5 +22,17 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
+ },
+  {
+    "number": 2,
+    "route": "92",
+    "destZ": "西貢",
+    "destY": "鑽石山",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
  }
 ]
