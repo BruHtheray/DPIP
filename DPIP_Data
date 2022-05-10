@@ -230,7 +230,7 @@
    {
     "route": "92",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 1,
     "Chi": "歡迎乘坐九龍巴士",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
@@ -242,7 +242,7 @@
     {
     "route": "92",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 2,
     "Chi": "歡迎乘坐龍巴士",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
