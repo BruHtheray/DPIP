@@ -382,5 +382,41 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 14,
+    "Chi": "打鼓嶺新村"
+    "ChiTime": 5,
+    "Eng": "TA KU LING SAN TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 15,
+    "Chi": "鄭植之中學",
+    "ChiTime": 5,
+    "Eng": "CHENG CHEK CHEE SECONDARY SCH.",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 16,
+    "Chi": "窩美",
+    "ChiTime": 5,
+    "Eng": "WO MEI",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
