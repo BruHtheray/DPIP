@@ -527,4 +527,64 @@
     "TimePosition": 0,
     "Notification": 0
  },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 26,
+    "Chi": "翠塘花園",
+    "ChiTime": 5,
+    "Eng": "LAKE SIDE GARDEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 27,
+    "Chi": "西貢大會堂",
+    "ChiTime": 5,
+    "Eng": "SAI KUNG TOWN HALL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 28,
+    "Chi": "西貢警署",
+    "ChiTime": 5,
+    "Eng": "SAI KUNG POLICE STATION",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 29,
+    "Chi": "西貢總站",
+    "ChiTime": 5,
+    "Eng": "SAI KUNG BT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 30,
+    "Chi": "多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "TAHNKS FOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ }
 ]
