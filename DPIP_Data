@@ -286,5 +286,42 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "基順學校",
+    "ChiTime": 5,
+    "Eng": "KEI SHUN SPECIAL SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "順利消防局",
+    "ChiTime": 5,
+    "Eng": "SHUN LEE FIRE STATION",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "德望學校",
+    "ChiTime": 5,
+    "Eng": "GOOD HOPE SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
+ 
 ]
