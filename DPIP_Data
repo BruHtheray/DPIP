@@ -622,5 +622,17 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+   {
+    "route": "92",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "菠蘿輋",
+    "ChiTime": 5,
+    "Eng": "PO LO CHE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 ]
