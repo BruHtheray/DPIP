@@ -228,7 +228,7 @@
     "Notification": 0
  },
    {
-    "route": "92",
+    "route": "307",
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘坐九龍巴士",
@@ -240,16 +240,100 @@
     "Notification": 0
  },
     {
-    "route": "92",
+    "route": "307",
     "direction": 0,
     "NextStop": 2,
-    "Chi": "歡迎乘坐龍巴士",
+    "Chi": "林士街",
     "ChiTime": 5,
-    "Eng": "WELCOME ONBOARD",
+    "Eng": "RUMSEY STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "德忌利士街",
+    "ChiTime": 5,
+    "Eng": "DOUGLAS STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "皇后像廣場",
+    "ChiTime": 5,
+    "Eng": "STATUE SQUARE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "金鐘站",
+    "ChiTime": 5,
+    "Eng": "ADMIRALTY STATION",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "入境事務大樓",
+    "ChiTime": 5,
+    "Eng": "IMMIGRATION TOWER",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "告士打道維園",
+    "ChiTime": 5,
+    "Eng": "VICTORIA PARK GLOUCESTER ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "興發街",
+    "ChiTime": 5,
+    "Eng": "HING FAT STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "307",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "東區海底隧道",
+    "ChiTime": 5,
+    "Eng": "EASTERN HARBOUR CROSSING",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
  }
- 
+
 ]
