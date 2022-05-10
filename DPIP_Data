@@ -466,5 +466,29 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
- }
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 21,
+    "Chi": "白沙灣",
+    "ChiTime": 5,
+    "Eng": "PAK SHA WAN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 22,
+    "Chi": "白沙臺",
+    "ChiTime": 5,
+    "Eng": "HABITAT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
 ]
