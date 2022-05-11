@@ -442,6 +442,18 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ },
+    {
+    "route": "273",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "蓬瀛仙館",
+    "ChiTime": 5,
+    "Eng": "FUNG YING SIN KOON",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
