@@ -454,6 +454,18 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+  },
+    {
+    "route": "273",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "基新中學",
+    "ChiTime": 5,
+    "Eng": "KEI SAN SECONDARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
