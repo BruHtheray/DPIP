@@ -422,10 +422,22 @@
     {
     "route": "273",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 1,
     "Chi": "歡迎乘坐九瀏巴士",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "273",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "欣盛苑",
+    "ChiTime": 5,
+    "Eng": "YAN SHING COURT",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
