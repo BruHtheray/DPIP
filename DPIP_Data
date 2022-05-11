@@ -550,6 +550,139 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+ 
+ },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘坐九瀏巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "欣盛苑",
+    "ChiTime": 5,
+    "Eng": "YAN SHING COURT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "蓬瀛仙館",
+    "ChiTime": 5,
+    "Eng": "FUNG YING SIN KOON",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "基新中學",
+    "ChiTime": 5,
+    "Eng": "KEI SAN SECONDARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "基新中學",
+    "ChiTime": 5,
+    "Eng": "KEI SAN SECONDARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "粉嶺站",
+    "ChiTime": 5,
+    "Eng": "FANLING STATION",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "百福田心球場",
+    "ChiTime": 5,
+    "Eng": "PAK FUK TIN SUM PLAYGROUND",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "牽晴間",
+    "ChiTime": 5,
+    "Eng": "DAWNING VIEWS",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "和興村",
+    "ChiTime": 5,
+    "Eng": "WO HING TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "華明總站",
+    "ChiTime": 5,
+    "Eng": "WAH MING BT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+    {
+    "route": "273",
+    "direction": 1,
+    "NextStop": 11,
+    "Chi": "多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "THANK YOU FOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
