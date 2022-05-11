@@ -11,8 +11,20 @@
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
  },
- {
+   {
     "number": 1,
+    "route": "273",
+    "destZ": "華明",
+    "destY": "華明",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+ },
+  {
+    "number": 2,
     "route": "301",
     "destZ": "上環",
     "destY": "上環",
@@ -24,7 +36,7 @@
     "halfpriceY1": "0.0"
  },
   {
-    "number": 2,
+    "number": 3,
     "route": "92",
     "destZ": "西貢",
     "destY": "鑽石山站",
@@ -36,7 +48,7 @@
     "halfpriceY1": "0.0"
  },
    {
-    "number": 3,
+    "number": 4,
     "route": "307",
     "destZ": "大埔中心",
     "destY": "中環碼頭",
