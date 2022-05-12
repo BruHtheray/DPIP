@@ -683,7 +683,7 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-    },
+   },
     {
     "route": "7M",
     "direction": 0,
@@ -691,6 +691,32 @@
     "Chi": "歡迎乘坐九龍巴士",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ 
+ },
+  {
+    "route": "7M",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "天宏苑",
+    "ChiTime": 5,
+    "Eng": "TIN WANG COURT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ 
+ },
+  {
+    "route": "7M",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "天虹小學",
+    "ChiTime": 5,
+    "Eng": "RAINBOW PRIMARY SCHOOL",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
