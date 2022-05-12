@@ -793,6 +793,116 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+    },
+    {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘坐九龍巴士",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ 
+ },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "天宏苑",
+    "ChiTime": 5,
+    "Eng": "TIN WANG COURT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+ 
+ },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "天虹小學",
+    "ChiTime": 5,
+    "Eng": "RAINBOW PRIMARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+   {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "竹園邨總站",
+    "ChiTime": 5,
+    "Eng": "CHUK YUEN ESTATE BT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "雅竹街",
+    "ChiTime": 5,
+    "Eng": "NGA CHUK STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "龍翔官立中學",
+    "ChiTime": 5,
+    "Eng": "LUNG CHEUNG GOVT. SECONDARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "宏業樓",
+    "ChiTime": 5,
+    "Eng": "WANG YIP HOUSE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "樂富總站",
+    "ChiTime": 5,
+    "Eng": "LOK FU BT",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "7M",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "多謝乘搭",
+    "ChiTime": 5,
+    "Eng": "THANK YOU FOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
