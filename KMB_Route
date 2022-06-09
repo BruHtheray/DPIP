@@ -70,6 +70,18 @@
     "maxPY": "1",
     "priceY1": "0.0",
     "halfpriceY1": "0.0"
+    },
+   {
+    "number": 6,
+    "route": "6D",
+    "destZ": "牛頭角",
+    "destY": "美孚",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
   }
  
 ]
