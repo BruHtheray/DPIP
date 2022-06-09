@@ -905,7 +905,7 @@
     "Notification": 0
    },
   {
-    "route": "92",
+    "route": "66X",
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘坐九龍巴士",
@@ -917,12 +917,12 @@
     "Notification": 0
     },
    {
-    "route": "92",
+    "route": "66X",
     "direction": 0,
     "NextStop": 2,
-    "Chi": "志蓮淨苑",
+    "Chi": "富貴街",
     "ChiTime": 5,
-    "Eng": "CHI LIN NUNNERY",
+    "Eng": "FOO KWAI STREET",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
