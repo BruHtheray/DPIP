@@ -927,6 +927,30 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+     },
+   {
+    "route": "66X",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "銘基書院",
+    "ChiTime": 5,
+    "Eng": "MING KEI COLLEGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+   },
+   {
+    "route": "66X",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "新鎮地街",
+    "ChiTime": 5,
+    "Eng": "FOO KWAI STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
