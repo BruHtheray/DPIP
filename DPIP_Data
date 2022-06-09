@@ -919,7 +919,7 @@
    {
     "route": "92",
     "direction": 0,
-    "NextStop": 1,
+    "NextStop": 2,
     "Chi": "志蓮淨苑",
     "ChiTime": 5,
     "Eng": "CHI LIN NUNNERY",
