@@ -915,6 +915,18 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
+    },
+   {
+    "route": "92",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "志蓮淨苑",
+    "ChiTime": 5,
+    "Eng": "CHI LIN NUNNERY",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
  }
 
 ]
